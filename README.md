@@ -7,7 +7,7 @@ Program Year: 2025
 
 Why in Course: to learn coding which would be an useful skill for my future career
 
-Why psychology: I like to listen to people and help them
+Why psychology: I like listening to people and helping them 
 
 Career plans: I want to work in the psychology field
 
