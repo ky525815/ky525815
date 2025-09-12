@@ -1,16 +1,21 @@
 # Hi there 👋
 
-**Kayra Yildirim**
+## Kayra Yildirim
 
-**Major:** *Psychology* 
+## Major: 
+*Psychology* 
 
-**Program Year:** *2025*
+## Program Year: 
+*2025*
 
-**Why in Course:** *learn coding which could be a useful skill for jobs I will apply to in the future.* 
+## Why in Course: 
+*learn coding which could be a useful skill for jobs I will apply to in the future.* 
 
-**Why psychology:** *I like listening to people and helping them. I first realized I had a passion for psychology after my first year in my undergraduate degree when I loved almost everything I was being taught.*  
+## Why psychology: 
+*I like listening to people and helping them. I first realized I had a passion for psychology after my first year in my undergraduate degree when I loved almost everything I was being taught.*  
 
-**Career plans:** *I plan to be done my undergraduate degree in psychology this year. After I plan to take a graduate degree in mental health and addiction. Once I am done doing my graduate degree I will volunteer, work at carecore or work for my aunt who works with doctors without borders.* 
+## Career plans: 
+*I plan to be done my undergraduate degree in psychology this year. After I plan to take a graduate degree in mental health and addiction. Once I am done doing my graduate degree I will volunteer, work at carecore or work for my aunt who works with doctors without borders.* 
 
 ![alt text](me.jpg)
 
