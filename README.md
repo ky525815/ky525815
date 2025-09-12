@@ -1,5 +1,4 @@
 ## Hi there 👋
-# H1
 Kayra Yildirim
 
 Major: Psychology 
