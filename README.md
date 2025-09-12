@@ -3,13 +3,13 @@
 ## Kayra Yildirim
 
 ## Major: 
-*my major is in psychology* 
+*My major is in psychology* 
 
 ## Program Year: 
 *2025*
 
 ## Why in Course: 
-*learn coding which could be a useful skill for jobs I will apply to in the future.* 
+*Learn coding which could be a useful skill for jobs I will apply to in the future. I also have friends who studied computer science. We talked about it a little bit and I found coding very interesting and hope to learn a little bit of what they know.* 
 
 ## Why psychology: 
 *I like listening to people and helping them. I first realized I had a passion for psychology after my first year in my undergraduate degree when I loved almost everything I was being taught.*  
